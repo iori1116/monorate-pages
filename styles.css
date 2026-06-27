@@ -136,6 +136,13 @@ h1 {
   font-weight: 900;
 }
 
+.hero-label {
+  margin-bottom: 4px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 13px;
+  font-weight: 900;
+}
+
 .hero-caption {
   margin-top: 8px;
   color: rgba(255, 255, 255, 0.72);
