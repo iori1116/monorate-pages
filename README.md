@@ -5,6 +5,7 @@
 ## 公開するファイル
 
 - `index.html`: サイトURL
+- `support.html`: サポート・問い合わせURL
 - `privacy.html`: プライバシーポリシーURL
 - `terms.html`: 利用規約URL
 - `styles.css`: 共通スタイル
@@ -24,14 +25,15 @@
 
 ```text
 https://ユーザー名.github.io/monorate-pages/
+https://ユーザー名.github.io/monorate-pages/support.html
 https://ユーザー名.github.io/monorate-pages/privacy.html
 https://ユーザー名.github.io/monorate-pages/terms.html
 ```
 
-## 公開前に変更する場所
+## App Store Connectに入れるURL
 
-`privacy.html` と `terms.html` の以下を自分のメールアドレスに変更してください。
+- サポートURL: `https://iori1116.github.io/monorate-pages/`
+- プライバシーポリシーURL: `https://iori1116.github.io/monorate-pages/privacy.html`
+- 利用規約URL: `https://iori1116.github.io/monorate-pages/terms.html`
 
-```text
-your-email@example.com
-```
+トップページ内にもサポート・お問い合わせ欄があります。個別のサポートページを使う場合は、`https://iori1116.github.io/monorate-pages/support.html` を利用できます。
